@@ -1,0 +1,3 @@
+# Lesson code uses only the Python standard library.
+# Notebook kernel support:
+ipykernel
